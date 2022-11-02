@@ -52,7 +52,7 @@
             android:layout_weight="0.5"
             android:scaleType="fitCenter"
             android:padding="1dp"
-            android:src="@drawable/ic_baseline_home_24"
+            android:src="@drawable/ic_baseline_home_24_white"
             android:background="#000000FF"/>
         <ImageButton
             android:id="@+id/btn_chat"
@@ -79,7 +79,7 @@
             android:layout_weight="0.5"
             android:scaleType="fitCenter"
             android:padding="1dp"
-            android:src="@drawable/ic_round_person_24"
+            android:src="@drawable/ic_round_person_24_green"
             android:background="#000000FF"/>
     </LinearLayout>
 
