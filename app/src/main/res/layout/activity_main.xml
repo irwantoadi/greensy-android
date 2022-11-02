@@ -7,6 +7,13 @@
     android:background="@color/white_new"
     tools:context=".MainActivity">
 
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/bg_buttom"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:adjustViewBounds="true"/>
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"

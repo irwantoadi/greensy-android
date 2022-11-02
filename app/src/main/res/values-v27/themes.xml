@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.GREENSY.NoActionBar">
+        <item name="windowActionBar">true</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorPrimaryDark">#394A3A</item>
+<!--        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>-->
+<!--        <item name="android:windowTranslucentStatus">true</item>-->
+    </style>
+</resources>
